@@ -1,4 +1,4 @@
-# HR_Analytics_Dashboard
+# HR_Attrition_Analytics_Dashboard
 
 ## 📌 Project Overview
 HR Attrition Analysis is an interactive Power BI dashboard designed to analyze employee turnover trends and identify key factors contributing to attrition within an organization.
@@ -124,5 +124,5 @@ Through this project, I improved my skills in:
 
 # 🤝 Connect With Me
 
-- LinkedIn:linkdin.com/in/pratiksha-devkar-95616434a
+- LinkedIn:httpa://linkdin.com/in/pratiksha-devkar-95616434a
 - GitHub:https://github.com/pratikshadevkar
