@@ -122,6 +122,11 @@ Through this project, I improved my skills in:
 
 ---
 
+#Project Overview
+<img width="1318" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/a17b3b73-0ef3-4460-892f-609587f0b76b" />
+
+
+---
 # 🤝 Connect With Me
 
 - LinkedIn:https://linkdin.com/in/pratiksha-devkar-95616434a
