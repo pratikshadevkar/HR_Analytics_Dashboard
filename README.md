@@ -124,5 +124,5 @@ Through this project, I improved my skills in:
 
 # 🤝 Connect With Me
 
-- LinkedIn: https://linkdin.com/in/ pratiksha-devkar-95616434a
+- LinkedIn:linkdin.com/in/pratiksha-devkar-95616434a
 - GitHub:https://github.com/pratikshadevkar
