@@ -122,7 +122,7 @@ Through this project, I improved my skills in:
 
 ---
 
-#Project Overview
+# Project Overview
 <img width="1318" height="735" alt="Dashboard" src="https://github.com/user-attachments/assets/a17b3b73-0ef3-4460-892f-609587f0b76b" />
 
 
